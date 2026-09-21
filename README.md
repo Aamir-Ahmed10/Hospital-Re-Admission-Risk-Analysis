@@ -1,6 +1,6 @@
 # Hospital-Re-Admission-Risk-Analysis
-<img width="500" height="300" alt="3d-cartoon-hospital-healthcare-scene" src="https://github.com/user-attachments/assets/78bbaf14-daff-4726-b095-cd60a40b3025" />
-<img width="500" height="300" alt="Focus_hospital_111921" src="https://github.com/user-attachments/assets/b8a36564-c656-4910-8243-f5255aa0e740" />
+<img width="400" height="200" alt="3d-cartoon-hospital-healthcare-scene" src="https://github.com/user-attachments/assets/78bbaf14-daff-4726-b095-cd60a40b3025" />
+<img width="400" height="200" alt="Focus_hospital_111921" src="https://github.com/user-attachments/assets/b8a36564-c656-4910-8243-f5255aa0e740" />
 
 ## Business Problem: 
 Hospitals face financial penalties when patients are readmitted within 30 days of leaving the hospital. This project looks at 10 years of data from 130 U.S. hospitals to find which patients, diagnoses, and care patterns are linked to a higher risk of readmission. The goal is to help care teams identify high-risk patients, focus follow-up resources, and prevent avoidable readmissions.
